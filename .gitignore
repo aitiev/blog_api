@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# settings for PyCharm and VSCode
+.idea/
+.vscode
+
+# media files
+media/
+
+# my files
+sites.txt
